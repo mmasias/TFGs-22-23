@@ -12,14 +12,12 @@
 
 ## Esquema
 
-Capítulos|Resumen
--|-
-[Capítulo 1](./cap%C3%ADtulos/capitulo1.md) |Primer capítulo del TFG: base del proyecto, puerta de entrada a la lectura y comprensión del documento. 
-Capítulo 2 |
-Capítulo 3 |
-Capítulo 4 |
-Capítulo 5 |
-Capítulo 6 |
-Capítulo 7 |
-Capítulo 8 |
-Capítulo 9 |
+Abiertos los espacios de entrega en el Campus Virtual
+
+Capítulos|Resumen|Espacio de Entrega|Fecha límite
+-|-|-|-
+[Capítulo 1](./cap%C3%ADtulos/capitulo1.md) |Base del proyecto, puerta de entrada a la lectura y comprensión del documento.|[Capítulo 1](https://campus.uneatlantico.es/mod/assign/view.php?id=45997)|20/03/2023 
+Capítulo 2 |Requisitos|[Capítulo 2](https://campus.uneatlantico.es/mod/assign/view.php?id=45998)|10/04/2023
+Capítulo 3 |Análisis & Diseño|[Capítulo 3](https://campus.uneatlantico.es/mod/assign/view.php?id=45999)|1/05/2023
+Capítulos finales |Descripción de la solución, Conclusiones, Discusión de resultados, Recomendaciones y futuras líneas de actuación|[Capítulos finales](https://campus.uneatlantico.es/mod/assign/view.php?id=46000)|31/05/2023
+Entrega Final |Espacio para la carga de la versión final del documento|[Entrega final ](https://campus.uneatlantico.es/mod/assign/view.php?id=46001)|9/06/2023
