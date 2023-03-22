@@ -43,6 +43,11 @@ Estructurar la descripción de los Casos de Uso
 
 ## A tener en cuenta
 
+### Diapos de IdSw
+
+- [Modelo del dominio](https://docs.google.com/presentation/d/1-jZFHBaBy2K4D3riayN13oaGQG124vJAcgX-B-6IYpY/edit?usp=sharing), [MdD parte II](https://docs.google.com/presentation/d/1TB9XLKyaiJmMGd5clk7iW9Q363hRzRol7QXtb-Jp9eM/edit?usp=sharing) 
+- [Disciplina de requisitos](https://docs.google.com/presentation/d/1cUl342eEuz86-FEdmwJoSNqJK-_ushuvSKvj_lr4RrQ/edit?usp=sharing)
+
 ### Soy un cliente con dinero para pagar a tu empresa si tu equipo desarrolla la aplicación que deseo:
 
 |||
