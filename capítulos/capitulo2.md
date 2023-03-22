@@ -6,8 +6,6 @@ Segundo capítulo del TFG: busca dirigir el desarrollo hacia el sistema correcto
 
 ## ¿Por qué?
 
-Es un capítulo clave para establecer una base sólida sobre la que desarrollar el TFG. 
-
 Habiendo entendido el espacio sobre el que se mueve el TFG, el estado del arte de la organización y la tecnología subyacente a dicha organización, toca dejar definidos los límites de la solución a desarrollar.
 
 ## ¿Para qué?
