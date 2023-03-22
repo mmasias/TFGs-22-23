@@ -6,15 +6,19 @@ Segundo capítulo del TFG: busca dirigir el desarrollo hacia el sistema correcto
 
 ## ¿Por qué?
 
+Es un capítulo clave para establecer una base sólida sobre la que desarrollar el TFG. 
+
+Habiendo entendido el espacio sobre el que se mueve el TFG, el estado del arte de la organización y la tecnología subyacente a dicha organización, toca dejar definidos los límites de la solución a desarrollar.
 
 ## ¿Para qué?
 
-Comprender los problemas actuales de la organización destino e identificar mejoras potenciales
-Comprender la estructura y dinámica de la organización en la que el sistema se desarrollará (la organización destino)
+- Comprender la estructura y dinámica de la organización en la que el sistema se desarrollará
+- Definir los límites del sistema
+- Proveer a los desarrolladores del sistema con un mejor comprensión del los requisitos del sistema
 
 ## ¿Cómo?
 
-Realizando una abstracción de la realidad, y a partir de esta especificando 
+Realizando una abstracción de la realidad, y a partir de esta especificando los requisitos del sistema.
 
 ### Modelo del dominio
 
@@ -23,11 +27,11 @@ Realizando una abstracción de la realidad, y a partir de esta especificando
 Diagrama de clases
 Diagrama de objetos
 Diagrama de estados
-Glosario
+Glosario|Vocabulario común
+Requisitos Suplementarios (a.k.a. los *no funcionales*)|Especifican propiedades del sistema tales como restricciones de entorno e implementación, rendimiento, plataforma, mantenibilidad, extensibilidad y confiabilidad (-ilidades).
 
 ### Disciplina de requisitos
 
-Requisitos Suplementarios (a.k.a. los *no funcionales*) que especifican propiedades del sistema tales como restricciones de entorno e implementación, rendimiento, plataforma, mantenibilidad, extensibilidad y confiabilidad (-ilidades).
 
 |||
 -|-
@@ -36,7 +40,6 @@ Priorizar Casos de Uso
 Detallar Casos de Uso
 Prototipar Casos de Uso
 Estructurar la descripción de los Casos de Uso
-
 
 ## A tener en cuenta
 
