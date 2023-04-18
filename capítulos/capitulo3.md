@@ -40,6 +40,10 @@ Estudiando la descripción de los Casos de Uso y el Modelo de Dominio existente|
 
 ## A tener en cuenta
 
+### Diapos de IdSw
+
+- [IdSw: análisis y diseño](https://drive.google.com/drive/folders/1gZU_teZiNH4l7W3ltxuQ0bS3hQPTaCNQ?usp=share_link), incluyendo estrategias de clasificación, relaciones entre clases, cohesión, acoplamiento, etc...
+
 ### Eres el jefe de proyecto de la aplicación
 
 |||
