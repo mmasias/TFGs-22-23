@@ -10,6 +10,10 @@
 * [Documento D0](https://docs.google.com/document/d/1pOYQI92gmyIeFjCkUD2-FHpgrXHIqebOsHC3g71SsiM/edit?usp=share_link)
 * [Documento D1](https://docs.google.com/document/d/1JdICegtlkqWMMr38ef04MNJHAjVTtE54994zzRQ91yM/edit?usp=share_link)
 
+### Confidencialidad del TFG
+
+En [este documento](./confidencialidadTFG.md) se han recopilado los elementos a tener en cuenta con respecto la confidencialidad del TFG.
+
 ## Esquema
 
 Capítulos|Resumen|Espacio de Entrega|Fecha límite
