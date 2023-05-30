@@ -1,4 +1,4 @@
-# ACUERDO DE CONFIDENCIALIDAD EN TRABAJOS DE FIN DE GRADO (TFG)
+# Acuerdo de confidencialidad para el TFG
 
 Por un lado, el Sr./Sra. *nombre alumno/a*, con NIF *NIF alumno/a*, y por otro el Sr./Sra. *nombre representante empresa*, con NIF *NIF representante empresa* que actúa en nombre de la empresa *Nombre empresa*, acuerdan firmar este Acuerdo de Confidencialidad que se regirá por
 las siguientes cláusulas, previas a las siguientes
