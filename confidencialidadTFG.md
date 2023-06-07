@@ -13,3 +13,5 @@ Habitualmente el punto 3 se trata del convenio de prácticas que firman el alumn
 Se puede utilizar [este formato](plantillaAcuerdoConfidencialidad.md) como base para generar el punto 3.
 
 Adicionalmente, los puntos 2 y 3 deben aportarse dentro del TFG, en un Anexo especialmente dedicado a este tema.
+
+- [Solicitudes recibidas](confidencialidad22-23.md)
