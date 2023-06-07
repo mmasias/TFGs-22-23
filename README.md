@@ -12,7 +12,7 @@
 
 ### Confidencialidad del TFG
 
-En [este documento](docs/confidencialidad/confidencialidadTFG.md) se han recopilado los elementos a tener en cuenta con respecto la confidencialidad del TFG.
+En [este documento](docs/confidencialidad/README.md) se han recopilado los elementos a tener en cuenta con respecto la confidencialidad del TFG.
 
 ## Esquema
 

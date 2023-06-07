@@ -10,8 +10,8 @@ Este documento recopila los pasos a seguir en aquellos trabajos que quieran acog
 
 Habitualmente el punto 3 se trata del convenio de prácticas que firman el alumno, la empresa y la universidad. El punto 2 puede estar contemplado en ese mismo documento, o bien haberse redactado de modo específico para el TFG (esto último casi mejor).
 
-Se puede utilizar [este formato](../../plantillaAcuerdoConfidencialidad.md) como base para generar los puntos 2 y 3. Para el punto 1 basta un correo electrónico solicitándolo.
+Se puede utilizar [este formato](plantillaAcuerdoConfidencialidad.md) como base para generar los puntos 2 y 3. Para el punto 1 basta un correo electrónico solicitándolo.
 
 Adicionalmente, estos puntos deben aportarse dentro del TFG, en un Anexo especialmente dedicado a este tema.
 
-- [Solicitudes recibidas](docs/confidencialidad22-23.md)
+- [Solicitudes recibidas](confidencialidad22-23.md)
