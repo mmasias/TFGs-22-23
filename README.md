@@ -23,3 +23,12 @@ Capítulos|Resumen|Espacio de Entrega|Fecha límite
 [Capítulo 3](./cap%C3%ADtulos/capitulo3.md) |Análisis & Diseño|[Entrega 3](https://campus.uneatlantico.es/mod/assign/view.php?id=45999)|1/05/2023
 [Capítulos finales](/cap%C3%ADtulos/entrega4.md) |Descripción de la solución, conclusiones, discusión de resultados, recomendaciones y futuras líneas de actuación|[Entrega 4](https://campus.uneatlantico.es/mod/assign/view.php?id=46000)|31/05/2023
 Entrega Final |Espacio para la carga de la versión final del documento|[Entrega final](https://campus.uneatlantico.es/mod/assign/view.php?id=46001)|9/06/2023
+
+## Calendario (tentativo) de defensas
+
+||L-19|M-20|X-21|J-22|L-26|
+|-|:-:|:-:|:-:|:-:|:-:
+10:00 - 10:30|KT|LC|LCP|MG|AG
+11:00 - 11:30|JS|ER|RG|DH|DL
+12:00 - 12:30|NC|MM|DR|SA|BO
+13:00 - 13:30|MB||AP|||
