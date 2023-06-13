@@ -11,4 +11,8 @@
     - **Diseño** (tecnologías y arquitectura abordadas para resolver el o los casos de usos).
   - 5 minutos para mostrar la solución, a ser posible abordando los casos de uso vistos anteriormente.
   - 2 minutos para conclusiones finales.
-- Prepararlo con tiempo. Ensayar la presentación algunas veces. Descansar la noche anterior.
+- Luego de esto van las preguntas del tribunal.
+
+Prepararlo con tiempo y ensayar la presentación algunas veces. 
+
+Descansar bien la noche anterior.
