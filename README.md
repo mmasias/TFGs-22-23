@@ -32,3 +32,5 @@ Entrega Final |Espacio para la carga de la versión final del documento|[Entrega
 11:00 - 11:30|JS|ER|RG|DH|DL
 12:00 - 12:30|NC|MM|DR|SA|BO
 13:00 - 13:30|MB||AP|||
+
+Acerca de [la defensa...](./cap%C3%ADtulos/laDefensa.md)
