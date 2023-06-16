@@ -29,8 +29,10 @@ Entrega Final |Espacio para la carga de la versión final del documento|[Entrega
 ||L-19|M-20|X-21|J-22|L-26|
 |-|:-:|:-:|:-:|:-:|:-:
 10:00 - 10:30|KT|LC|LCP|MG|AG
-11:00 - 11:30|JS|ER|RG|DH|DL
-12:00 - 12:30|NC|MM|DR|SA|BO
-13:00 - 13:30|MB||AP|||
+10:30 - 11:00|JS|ER|RG|DH|DL
+11:00 - 11:30|NC|MM|AP||BO
+11:30 - 12:00|MB|||||
+12:00 - 12:30||||SA||
+12:30 - 13:00||||DR||
 
 Acerca de [la defensa...](./cap%C3%ADtulos/laDefensa.md)
