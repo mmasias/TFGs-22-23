@@ -18,21 +18,12 @@ En [este documento](docs/confidencialidad/README.md) se han recopilado los eleme
 
 Capítulos|Resumen|Espacio de Entrega|Fecha límite
 -|-|-|-
-[Capítulo 1](./cap%C3%ADtulos/capitulo1.md) |Base del proyecto, puerta de entrada a la lectura y comprensión del documento.|[Entrega 1](https://campus.uneatlantico.es/mod/assign/view.php?id=45997)|20/03/2023 
-[Capítulo 2](./cap%C3%ADtulos/capitulo2.md) |Requisitos|[Entrega 2](https://campus.uneatlantico.es/mod/assign/view.php?id=45998)|10/04/2023
-[Capítulo 3](./cap%C3%ADtulos/capitulo3.md) |Análisis & Diseño|[Entrega 3](https://campus.uneatlantico.es/mod/assign/view.php?id=45999)|1/05/2023
-[Capítulos finales](/cap%C3%ADtulos/entrega4.md) |Descripción de la solución, conclusiones, discusión de resultados, recomendaciones y futuras líneas de actuación|[Entrega 4](https://campus.uneatlantico.es/mod/assign/view.php?id=46000)|31/05/2023
-Entrega Final |Espacio para la carga de la versión final del documento|[Entrega final](https://campus.uneatlantico.es/mod/assign/view.php?id=46001)|9/06/2023
+[Capítulo 1](./cap%C3%ADtulos/capitulo1.md) |Base del proyecto, puerta de entrada a la lectura y comprensión del documento.|[Entrega 1](https://campus.uneatlantico.es/mod/assign/view.php?id=45997)|*Ver GANTT* 
+[Capítulo 2](./cap%C3%ADtulos/capitulo2.md) |Requisitos|[Entrega 2](https://campus.uneatlantico.es/mod/assign/view.php?id=45998)|*Ver GANTT*
+[Capítulo 3](./cap%C3%ADtulos/capitulo3.md) |Análisis & Diseño|[Entrega 3](https://campus.uneatlantico.es/mod/assign/view.php?id=45999)|*Ver GANTT*
+[Capítulos finales](/cap%C3%ADtulos/entrega4.md) |Descripción de la solución, conclusiones, discusión de resultados, recomendaciones y futuras líneas de actuación|[Entrega 4](https://campus.uneatlantico.es/mod/assign/view.php?id=46000)|*Ver GANTT*
+Entrega Final |Espacio para la carga de la versión final del documento|[Entrega final](https://campus.uneatlantico.es/mod/assign/view.php?id=46001)|*Ver GANTT*
 
-## Calendario (tentativo) de defensas
-
-||L-19|M-20|X-21|J-22|L-26|
-|-|:-:|:-:|:-:|:-:|:-:
-10:00 - 10:30|KT|LC|LCP|MG|AG
-10:30 - 11:00|JS|ER|RG|DH|DL
-11:00 - 11:30|NC|MM|AP||BO
-11:30 - 12:00|MB|||||
-12:00 - 12:30||||SA||
-12:30 - 13:00||||DR||
+*MUY IMPORTANTE* Para la adecuada gestión del TFG el seguimiento de las fechas de entrega es fundamental. Una entrega fuera de tiempo (o una aparente entrega a tiempo pero con deficiencias evidentes en el documento presentado) inhabilita para la defensa en convocatoria ordinaria. Y dos entregas en estas condiciones inhabilitan la defensa en convocatoria extraordinaria.
 
 Acerca de [la defensa...](./cap%C3%ADtulos/laDefensa.md)
