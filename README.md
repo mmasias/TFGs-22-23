@@ -24,6 +24,10 @@ Capítulos|Resumen|Espacio de Entrega|Fecha límite
 [Capítulos finales](/cap%C3%ADtulos/entrega4.md) |Descripción de la solución, conclusiones, discusión de resultados, recomendaciones y futuras líneas de actuación|[Entrega 4](https://campus.uneatlantico.es/mod/assign/view.php?id=46000)|*Ver GANTT*
 Entrega Final |Espacio para la carga de la versión final del documento|[Entrega final](https://campus.uneatlantico.es/mod/assign/view.php?id=46001)|*Ver GANTT*
 
-*MUY IMPORTANTE* Para la adecuada gestión del TFG el seguimiento de las fechas de entrega es fundamental. Una entrega fuera de tiempo (o una aparente entrega a tiempo pero con deficiencias evidentes en el documento presentado) inhabilita para la defensa en convocatoria ordinaria. Y dos entregas en estas condiciones inhabilitan la defensa en convocatoria extraordinaria.
+### Acerca de plazos y tiempos
+
+Para la adecuada gestión del TFG el seguimiento de las fechas de entrega es fundamental. Una entrega fuera de tiempo (o una aparente entrega a tiempo pero con deficiencias evidentes en el documento presentado) inhabilita para la defensa en convocatoria ordinaria. Y dos entregas en estas condiciones inhabilitan la defensa en convocatoria extraordinaria.
+
+## La defensa
 
 Acerca de [la defensa...](./cap%C3%ADtulos/laDefensa.md)
